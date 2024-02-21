@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rudransh-pokhriyal
+- 👋 Hi, I’m Rudransh Pokhriyal
 - 👀 I’m interested in Computer Science and Technolgy
 - 🌱 I’m currently learning Web Development using MERN stack
 - 📫 How to reach me ... <a href="https://www.linkedin.com/in/rudransh-pokhriyal-79a71615b/" target="_blank">Linkedin</a>
