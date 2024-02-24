@@ -33,3 +33,7 @@ Software Developer
 <a href="http://www.github.com/rudransh-pokhriyal"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=rudransh-pokhriyal&bg_color=000000&color=ef4444&line=ffffff&point=ef4444&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/rudransh-pokhriyal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudransh-pokhriyal&langs_count=10&title_color=0891b2&text_color=ef4444&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" />
+</div>
