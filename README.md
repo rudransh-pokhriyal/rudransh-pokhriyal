@@ -1,4 +1,3 @@
-<h2 align="center">A Software Developer</h2>
 
 ###
 
@@ -6,6 +5,9 @@
 
 ###
 
+<h2 align="center">A Software Developer</h2>
+
+###
 <div align="center">
   <img height="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
 </div>
