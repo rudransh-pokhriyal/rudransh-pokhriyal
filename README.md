@@ -1,14 +1,12 @@
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rudransh Pokhriyal
 ==========================================================================================================================================
-
-Software Developer
+I am a Software Developer
 ------------------
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [rudransh12@gmail.com](mailto:rudransh12@gmail.com)
-* 🧠  I'm learning MERN stack
-* 🤝  I'm open to collaborating on interesting open source and web dev projects
+<img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" /> <br/>
+* 🌍  I'm based in <b>India</b> <br/>
+* ✉️  You can contact me at [rudransh12@gmail.com](mailto:rudransh12@gmail.com) <br/>
+* 🧠  I'm learning <b>MERN stack</b> <br/>
+* 🤝  I'm open to collaborating on <b>interesting open source and web dev projects</b> <br/>
 
 ### Skills
 
@@ -19,19 +17,19 @@ Software Developer
 
 
 ### Socials
-
+<div align="center">
 <p align="left"> <a href="https://discord.com/users/761512418261729301" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/rudransh-pokhriyal" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/rudransh_pokhriyal/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/rudransh-pokhriyal-79a71615b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/RudranshPokhri1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+</div>
 
-### Badges
+<p align="center"><b>My GitHub Stats</b></p>
 
-<b>My GitHub Stats</b>
-
+<div align="center">
 <a href="http://www.github.com/rudransh-pokhriyal"><img src="https://github-readme-stats.vercel.app/api?username=rudransh-pokhriyal&show_icons=true&hide=&title_color=0891b2&text_color=ef4444&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="rudransh-pokhriyal's GitHub stats" /></a>
 
 <a href="http://www.github.com/rudransh-pokhriyal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rudransh-pokhriyal&stroke=ef4444&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ef4444&currStreakLabel=0891b2&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
 
 <a href="https://github.com/rudransh-pokhriyal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudransh-pokhriyal&langs_count=10&title_color=0891b2&text_color=ef4444&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+</div>
 <div align="center">
   <img alt="snake eating my contributions" src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" />
 </div>
