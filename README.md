@@ -19,6 +19,9 @@ I am a Software Developer
 ### Socials
 <a href="https://instagram.com/rudransh_pokhriyal" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rudransh_pokhriyal" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rudransh-pokhriyal-79a71615b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+<a href="https://twitter.com/rudranshpokhri1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rudranshpokhri1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rudransh_pokhriyal" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rudransh_pokhriyal" height="30" width="40" /></a>
+<a href="https://discord.gg/761512418261729301" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="761512418261729301" height="30" width="40" /></a>
 
 <p align="center"><b>My GitHub Stats</b></p>
 
