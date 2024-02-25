@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">🌍  I'm based in India<br><br>🧠  I'm learning MERN stack<br><br>🤝  I'm open to collaborating on interesting open source and web dev projects<br><br>💬 Ask me about Java and JavaScript<br><br>📫 How to reach me? Drop me an email at rudransh12@gmail.com<br><br>⚡ Fun fact The first computer virus was a Creeper</h4>
+<h4 align="left">🌍  I'm based in India<br><br>🧠  I'm learning MERN stack<br><br>🤝  I'm open to collaborating on interesting open source and web dev projects<br><br>💬 Ask me about Java and JavaScript<br><br>📫 How to reach me? Drop me an email at <a href="mailto:rudransh12@gmail.com">rudransh12@gmail.com</a><br><br>⚡ Fun fact The first computer virus was a Creeper</h4>
 
 ###
 
