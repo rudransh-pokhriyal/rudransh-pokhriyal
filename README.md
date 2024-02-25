@@ -1,7 +1,7 @@
 
 ###
 
-<h1 align="center">Hi 👋 My name is Rudransh Pokhriyal!</h1>
+<h1 align="center">Hi 👋 I am Rudransh Pokhriyal!</h1>
 
 ###
 
