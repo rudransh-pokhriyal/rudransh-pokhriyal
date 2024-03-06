@@ -102,7 +102,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rudransh-pokhriyal&show_icons=true&locale=en&rank_icon=github&border_radius=10&theme=react" height="150" alt="stats graph"  />
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=rudransh-pokhriyal&count_private=true&border_radius=10&theme=react" height="137" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudransh-pokhriyal&show_icons=true&locale=en&layout=compact&border_radius=10&theme=react" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudransh-pokhriyal&show_icons=true&locale=en&layout=compact&border_radius=10&theme=react" height="180" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudransh-pokhriyal&radius=50&theme=synthwave-84&area=false&order=5&hide_border=true&hide_title=false" height="200" alt="activity-graph graph" />
 </div>
 
